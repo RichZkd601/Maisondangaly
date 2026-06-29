@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.maison-dangaly.com/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.maison-dangaly.com/assets/img/coucher-soleil-estran.jpg</image:loc>
+      <image:title>Parcs à huîtres de la Maison d'Angaly au coucher du soleil, Cancale</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.maison-dangaly.com/assets/img/huitres-plateau.jpg</image:loc>
+      <image:title>Huîtres de Cancale de la Maison d'Angaly</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.maison-dangaly.com/assets/img/grillades-feu.jpg</image:loc>
+      <image:title>Grillades au feu de bois au restaurant Maison d'Angaly</image:title>
+    </image:image>
+  </url>
+</urlset>

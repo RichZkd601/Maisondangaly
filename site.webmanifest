@@ -1,0 +1,14 @@
+{
+  "name": "Maison d'Angaly",
+  "short_name": "Maison d'Angaly",
+  "description": "Ostréiculteurs & table de la mer à Cancale, Baie du Mont-Saint-Michel.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#14110D",
+  "theme_color": "#14110D",
+  "lang": "fr",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/assets/img/huitres-plateau.jpg", "sizes": "1600x1280", "type": "image/jpeg" }
+  ]
+}

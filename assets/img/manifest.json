@@ -1,0 +1,57 @@
+{
+ "coucher-soleil-estran": {
+  "w": 2370,
+  "h": 1896,
+  "ar": 1.25
+ },
+ "parcs-baie": {
+  "w": 3023,
+  "h": 2418,
+  "ar": 1.2502
+ },
+ "tri-huitres": {
+  "w": 1170,
+  "h": 2049,
+  "ar": 0.571
+ },
+ "paniers-coquillages": {
+  "w": 3780,
+  "h": 3024,
+  "ar": 1.25
+ },
+ "terrasse-mer": {
+  "w": 2839,
+  "h": 2271,
+  "ar": 1.2501
+ },
+ "huitres-plateau": {
+  "w": 2047,
+  "h": 1638,
+  "ar": 1.2497
+ },
+ "plateau-fruits-mer": {
+  "w": 2224,
+  "h": 1779,
+  "ar": 1.2501
+ },
+ "plateau-homard": {
+  "w": 2543,
+  "h": 2034,
+  "ar": 1.2502
+ },
+ "feu-de-bois": {
+  "w": 2268,
+  "h": 4032,
+  "ar": 0.5625
+ },
+ "huitres-grillees": {
+  "w": 2464,
+  "h": 1971,
+  "ar": 1.2501
+ },
+ "grillades-feu": {
+  "w": 2268,
+  "h": 4032,
+  "ar": 0.5625
+ }
+}
